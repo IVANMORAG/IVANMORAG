@@ -2,7 +2,7 @@
 
 ### Computer Systems Engineering Student
 
-[![YouTube Channel Subscribers](https://youtube.com/@IvanMora-cv9ng)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/@IvanMora-cv9ng)
 [![Twitter Follow](https://twitter.com/ivanmora6ar?t=-9_jLtPfAXKWOqs80_3akQ&s=08)
 [![Tiktok Follow](https://www.tiktok.com/@ivn.mg?_t=8e83L4cpjU5&_r=1)
 [![Instagram Follow](https://instagram.com/ivn_mg?igshid=ZDc4ODBmNjlmNQ==)
