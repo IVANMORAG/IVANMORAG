@@ -2,10 +2,12 @@
 
 ### Computer Systems Engineering Student
 
-[![YouTube Channel Subscribers](https://youtube.com/@IvanMora-cv9ng)
-[![Twitter Follow](https://twitter.com/ivanmora6ar?t=-9_jLtPfAXKWOqs80_3akQ&s=08)
-[![Tiktok Follow](https://www.tiktok.com/@ivn.mg?_t=8e83L4cpjU5&_r=1)
-[![Instagram Follow](https://instagram.com/ivn_mg?igshid=ZDc4ODBmNjlmNQ==)
+![https://github.com/IVANMORAG](https://github.com/IVANMORAG/IVANMORAG/blob/main/Presentacion.png)
+
+[![https://github.com/IVANMORAG/IVANMORAG/blob/main/Youtube.png](https://youtube.com/@IvanMora-cv9ng)
+[![https://github.com/IVANMORAG/IVANMORAG/blob/main/twitter.png](https://twitter.com/ivanmora6ar?t=-9_jLtPfAXKWOqs80_3akQ&s=08)
+[![https://github.com/IVANMORAG/IVANMORAG/blob/main/tiktok.png](https://www.tiktok.com/@ivn.mg?_t=8e83L4cpjU5&_r=1)
+[![https://github.com/IVANMORAG/IVANMORAG/blob/main/insta.png](https://instagram.com/ivn_mg?igshid=ZDc4ODBmNjlmNQ==)
 
 
 
