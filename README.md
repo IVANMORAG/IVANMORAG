@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/ivn_mg?igsh=Nm1peDR5Z2gxb3Ew&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="www.linkedin.com/in/iván-mora-1a70942a7">
+  <a href="https://www.linkedin.com/in/iv%C3%A1n-mora-1a70942a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:ivanmoragarcia412@gmail.com">
@@ -47,12 +47,6 @@ Soy estudiante de Ingeniería en Sistemas Computacionales. Mi sueño como profes
 
 ### 3. [Sistema de Administración de Cursos](https://github.com/IVANMORAG/admin-course-system)
 - Sistema completo para la administración de cursos, con funcionalidades para agregar, editar y eliminar cursos.
-
-## 📫 Cómo contactarme
-
-- **Correo**: ivanmoragarcia412@gmail.com
-- **LinkedIn**: [Iván Mora](https://www.linkedin.com/in/ivanmora)
-- **GitHub**: [IVANMORAG](https://github.com/IVANMORAG)
 
 ---
 
