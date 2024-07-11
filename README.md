@@ -6,7 +6,14 @@
 
 ---
 
-Soy estudiante de Ingeniería en Sistemas Computacionales desde hace dos años. Mi sueño como profesional es comenzar a construir mi marca personal, con el objetivo de que la misma me abra las puertas a nuevas oportunidades de trabajo y aprendizaje.
+## 🌐 Conéctate conmigo
+
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tu_usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tu_usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu_usuario)
+
+
+Soy estudiante de Ingeniería en Sistemas Computacionales. Mi sueño como profesional es comenzar a construir mi marca personal, con el objetivo de que la misma me abra las puertas a nuevas oportunidades de trabajo y aprendizaje.
 
 ## 🚀 Sobre mí
 
