@@ -45,7 +45,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales. Mi sueño como profes
 ### 2. [Backend Service with Spring Boot](https://github.com/IVANMORAG/backend-service-with-spring-boot)
 - API para registrar, editar y eliminar canciones, desarrollada con Spring Boot.
 
-### 3. [Sistema de Administración de Cursos](https://github.com/IVANMORAG/admin-course-system)
+### 3. [Sistema de Administración de Cursos](https://github.com/IVANMORAG/Course-Management-System/tree/main)
 - Sistema completo para la administración de cursos, con funcionalidades para agregar, editar y eliminar cursos.
 
 ---
