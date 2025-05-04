@@ -1,8 +1,8 @@
 <h3 align="center">
-  ¡Bienvenido al perfil de Iván Mora! 🌟
+  ¡Bienvenido al perfil de Iván Mora! ✨
 </h3>
 <p align="center">
-  <a href="https://github.com/ivan-mora-engineer"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola%2C+bienvenido+a+mi+perfil+de+GitHub;Soy+Iv%C3%A1n+Mora;Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Desarrollador+Web+y+Backend"></a>
+  <a href="https://github.com/IVANMORAG"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola%2C+bienvenido+a+mi+perfil+de+GitHub;Soy+Iv%C3%A1n+Mora;Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Apasionado+por+Machine+Learning+y+Analítica+de+Datos"></a>
 </p>
 
 <div align="center">
@@ -31,7 +31,7 @@
 class QuienSoy:
     nombre = 'Iván Mora'
     estudios = "Ingeniería en Sistemas Computacionales"
-    aprendiendo_actualmente = "React y Spring Boot"
+    aprendiendo_actualmente = ["Machine Learning", "Analítica de Datos", "React", "Spring Boot"]
     hobbies = [
         'Fútbol',
         'Videojuegos',
@@ -40,7 +40,7 @@ class QuienSoy:
     ]
 
     def objetivos_personales():
-        return ["Concluir proyectos personales", "Ser un mejor ingeniero de software"]
+        return ["Concluir proyectos personales", "Desarrollar soluciones innovadoras en datos"]
 
     def ubicacion():
         return "México"
@@ -50,7 +50,7 @@ class QuienSoy:
 
 ---
 
-### 🎵 Actualmente Escuchando en Spotify 🎧
+### 🎵 Actualmente Escuchando en Spotify 🎷
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/ivanmora)
 
@@ -58,16 +58,24 @@ class QuienSoy:
 
 ### 🌟 Proyectos Destacados
 
-<a href="https://github.com/IVANMORAG/mri-tumor-segmentation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IVANMORAG&repo=mri-tumor-segmentation&theme=radical" />
-</a>
-
 <a href="https://github.com/IVANMORAG/facial-point-detection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IVANMORAG&repo=facial-point-detection&theme=radical" />
 </a>
 
+<a href="https://github.com/IVANMORAG/mri-tumor-segmentation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IVANMORAG&repo=mri-tumor-segmentation&theme=radical" />
+</a>
+
 <a href="https://github.com/IVANMORAG/api-android-malware">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IVANMORAG&repo=api-android-malware&theme=radical" />
+</a>
+
+<a href="https://github.com/IVANMORAG/spam-detection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IVANMORAG&repo=spam-detection&theme=radical" />
+</a>
+
+<a href="https://github.com/IVANMORAG/pantalon-data-analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IVANMORAG&repo=pantalon-data-analysis&theme=radical" />
 </a>
 
 ---
@@ -85,6 +93,7 @@ class QuienSoy:
   <h4>Frameworks y Herramientas</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60px" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60px" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60px" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60px" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60px" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60px" alt="Git" />
