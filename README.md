@@ -1,10 +1,11 @@
 <h3 align="center">
-  Welcome to Code White's profile!
+  Welcome to Iván Mora's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+  <a href="https://github.com/IVANMORAG"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7¢er=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Iván+Mora;I+am+a+Systems+Engineering+student;Machine+Learning+Enthusiast;API+Developer;Python+Lover+%3C3"></a>
 </p>
+
 
 <a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
   <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -24,28 +25,29 @@
 ---
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="800" height="400" width="500" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
  ```python
-  class WhoAmI:
-    user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
-	hobbies = [
-				'Music',
-                         'Chilling',
-			 	'Gaming',
-				'Sci-Fi Movies'
-			]
-	
-	def getCity():
-		return Chhattisgarh_India()
-	
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
+  Class WhoAmI:
+    user = 'Iván Mora'
+    current_edu = "Systems Engineering, 8th Semester"
+    currently_learning = "Machine Learning & API Development"
+    fun_fact = "I dream in neural networks!"
+    hobbies = [
+                'Training ML models',
+                'Building APIs',
+                'Gaming',
+                'Sci-Fi Movies'
+            ]
+    
+    def getCity():
+        return Mexico()
+    
+    def Ambitions():
+        BecomeMachineLearningEngineer()
+        BuildAIPoweredApps()
+        ContributeToOpenSource()
 	
  ```
 <br/>
@@ -61,33 +63,30 @@
 ---
 
 
-### My Projects ✨:
+### My Projects :
+<div align="center" width="100">
   
-<a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
-</a>
+<div style="margin: 20px;">
+  <a href="https://github.com/IVANMORAG/mri-tumor-segmentation">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IVANMORAG&repo=mri-tumor-segmentation&theme=tokyonight" />
+  </a>
+</div>
 
-<a href="https://github.com/Davekibh/robofriends">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
-</a>
+<div style="margin: 20px;">
+  <a href="https://github.com/IVANMORAG/facial-point-detection">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IVANMORAG&repo=facial-point-detection&theme=tokyonight" />
+  </a>
+</div>
 
-<a href="https://github.com/Davekibh/Picture-Sharing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
-</a>
+<div style="margin: 20px;">
+  <a href="https://github.com/IVANMORAG/api-android-malware">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IVANMORAG&repo=api-android-malware&theme=tokyonight" />
+  </a>
+</div>
 
-<a href="https://github.com/Davekibh/Chat-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
-</a>
+</div>
 
-<a href="https://github.com/Davekibh/Quiz-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
-</a>
-
----
+--- 
 
 <!-- STACK -->
 <div align="center" width="100">
