@@ -1,9 +1,76 @@
-<div align="center" style="background: linear-gradient(135deg, #1a1a1a, #000); padding: 30px; border: 5px double #0ff; box-shadow: 0 0 30px #f0f, 0 0 60px #0ff, 0 0 90px #ff0; border-radius: 25px; position: relative; background-image: linear-gradient(rgba(0, 255, 255, 0.2) 2px, transparent 2px), linear-gradient(90deg, rgba(0, 255, 255, 0.2) 2px, transparent 2px); background-size: 15px 15px;">
-  <p style="color: #0ff; font-size: 0.8em; opacity: 0.5; position: absolute; top: 10px; left: 10px;">0101 1010 0011</p>
-  <p style="color: #0ff; font-size: 0.8em; opacity: 0.5; position: absolute; bottom: 10px; right: 10px;">1100 0101 1001</p>
-  <h1 style="color: #0ff; font-size: 4em; text-shadow: 0 0 15px #0ff, 3px 3px 0 #f0f, -3px -3px 0 #ff0, 5px 5px 0 #0f0; position: relative; z-index: 1;">👾 IVÁN MORA</h1>
-  <h3 style="color: #f0f; text-shadow: 0 0 10px #f0f, 2px 2px 0 #0ff, -2px -2px 0 #ff0; font-style: italic;">🌌 Emperador del Código Cósmico</h3>
-  <img src="https://github.com/IVANMORAG/IVANMORAG/blob/main/Presentacion.png?raw=true" width="300" style="border-radius: 50%; border: 8px double #ff0; box-shadow: 0 0 40px #f0f, 0 0 80px #0ff, 0 0 120px #0f0; margin: 25px; transform: rotate(8deg);">
+<div align="center" style="margin: 20px;">
+  <svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg" style="background: #0d1117; border: 4px double #0ff; box-shadow: 0 0 30px #f0f, 0 0 60px #0ff;">
+    <!-- Definiciones de filtros -->
+    <defs>
+      <!-- Filtro neón cyan -->
+      <filter id="neon" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="5" result="blur" />
+        <feFlood flood-color="#00ffff" result="color" />
+        <feComposite in="color" in2="blur" operator="in" result="glow" />
+        <feMerge>
+          <feMergeNode in="glow" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
+      <!-- Filtro neón rosa -->
+      <filter id="neon-pink" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="5" result="blur" />
+        <feFlood flood-color="#ff00ff" result="color" />
+        <feComposite in="color" in2="blur" operator="in" result="glow" />
+        <feMerge>
+          <feMergeNode in="glow" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
+      <!-- Filtro para líneas neón cyan -->
+      <filter id="neon-cyan" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="3" result="blur" />
+        <feFlood flood-color="#00ffff" result="color" />
+        <feComposite in="color" in2="blur" operator="in" result="glow" />
+        <feMerge>
+          <feMergeNode in="glow" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
+    </defs>
+    
+    <!-- Fondo y cuadrícula cyberpunk -->
+    <rect width="100%" height="100%" fill="#0d1117" />
+    <!-- Cuadrícula horizontal -->
+    <g>
+      <line x1="0" y1="50" x2="800" y2="50" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
+      <line x1="0" y1="100" x2="800" y2="100" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
+      <line x1="0" y1="150" x2="800" y2="150" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
+      <line x1="0" y1="200" x2="800" y2="200" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
+      <line x1="0" y1="250" x2="800" y2="250" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
+      <line x1="0" y1="300" x2="800" y2="300" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
+      <line x1="0" y1="350" x2="800" y2="350" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
+    </g>
+    <!-- Cuadrícula vertical -->
+    <g>
+      <line x1="100" y1="0" x2="100" y2="400" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
+      <line x1="200" y1="0" x2="200" y2="400" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
+      <line x1="300" y1="0" x2="300" y2="400" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
+      <line x1="400" y1="0" x2="400" y2="400" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
+      <line x1="500" y1="0" x2="500" y2="400" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
+      <line x1="600" y1="0" x2="600" y2="400" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
+      <line x1="700" y1="0" x2="700" y2="400" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
+    </g>
+    
+    <!-- Líneas decorativas neón -->
+    <path d="M 50,50 L 750,50 L 750,350 L 50,350 Z" fill="none" stroke="#fff" stroke-width="2" filter="url(#neon-cyan)" />
+    <path d="M 100,100 L 700,100 L 700,300 L 100,300 Z" fill="none" stroke="#fff" stroke-width="2" filter="url(#neon-cyan)" />
+    
+    <!-- Textos con efectos neón -->
+    <text x="400" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="60" fill="#fff" filter="url(#neon)">IVÁN MORA</text>
+    <text x="400" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="30" fill="#fff" filter="url(#neon-pink)">DESARROLLADOR FULL STACK</text>
+    <text x="400" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="#fff" filter="url(#neon)">SISTEMAS COMPUTACIONALES</text>
+    
+    <!-- Elementos decorativos -->
+    <circle cx="150" cy="330" r="10" fill="none" stroke="#ff00ff" filter="url(#neon-pink)" />
+    <circle cx="650" cy="330" r="10" fill="none" stroke="#00ffff" filter="url(#neon)" />
+    <rect x="100" y="310" width="600" height="2" fill="#ff00ff" filter="url(#neon-pink)" />
+  </svg>
 </div>
 
 <div align="center" style="margin: 20px;">
@@ -80,7 +147,7 @@
   <p style="color: #ff0; font-size: 1.5em; text-shadow: 0 0 10px #ff0;">🪐🌟 SYSTEM OVERLOAD 🌟🪐</p>
 </div>
 
-<div align="center" style="background: linear-gradient(135deg, #000, #1a1a1a); padding: 30px; border: 5px double #0ff; box-shadow: 0 0 30px #f0f, 0 0 60px #0ff, 0 0 90px #ff0; border-radius: 25px; margin-top: 20px; background-image: linear-gradient(rgba(0, 255, 255, 0.2) 2px, transparent 2px), linear-gradient(90deg, rgba(0, 255, 255, 0.2) 2px, transparent 2px); background-size: 15px 15px;">
+<div align="center" style="background: linear-gradient(135deg, #000, #1a1a1a); padding: 30px; border: 5px double #0ff; box-shadow: 0 0 30px #f0f, 0 0 60px #0ff, 0 0 90px #ff0; border-radius: 25px; margin-top: 20px;">
   <p style="color: #ccc; font-style: italic;">🌃 Forjado en un reactor de código y neon</p>
   <p style="color: #ff0; font-size: 2em; text-shadow: 0 0 15px #ff0, 3px 3px 0 #f0f;">💥 ¡Únete a la revolución digital!</p>
 </div>
