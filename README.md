@@ -2,37 +2,30 @@
   Welcome to Iván Mora's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+
+
 <p align="center">
   <a href="https://github.com/IVANMORAG"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7¢er=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Iván+Mora;I+am+a+Systems+Engineering+student;Machine+Learning+Enthusiast;API+Developer;Python+Lover+%3C3"></a>
 </p>
 
-<p align="center">
-  <img 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" 
-    width="50px" 
-    alt="LinkedIn"
-    style="margin: 0 15px;">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" 
-    width="50px" 
-    alt="Instagram"
-    style="margin: 0 15px;">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://img.icons8.com/?size=100&id=A4DsujzAX4rw&format=png&color=000000" 
-    width="50px" 
-    alt="X (Twitter)"
-    style="margin: 0 15px;">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" 
-    width="50px" 
-    alt="TikTok"
-    style="margin: 0 15px;">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-</br>
+
+<div align="center">
+  <a href="www.linkedin.com/in/ivan-morag" style="text-decoration:none"><!--
+  --><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="50px" alt="LinkedIn" style="margin:0 15px;"><!--
+  --></a>       
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--
+  --><a href="https://www.instagram.com/ivn_mg/" style="text-decoration:none"><!--
+  --><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="50px" alt="Instagram" style="margin:0 15px;"><!--
+  --></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- 
+  --><a href="https://x.com/Ivn_moraG" style="text-decoration:none"><!--
+  --><img src="https://img.icons8.com/?size=100&id=A4DsujzAX4rw&format=png&color=000000" width="50px" alt="X (Twitter)" style="margin:0 15px;"><!--
+  --></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--
+  --><a href="https://www.tiktok.com/@ivan_morag" style="text-decoration:none"><!--
+  --><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" width="50px" alt="TikTok" style="margin:0 15px;"><!--
+  --></a>
+</div>
 
 ---
 
