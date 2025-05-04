@@ -58,16 +58,16 @@ class QuienSoy:
 
 ### 🌟 Proyectos Destacados
 
-<a href="https://github.com/ivan-mora-engineer/Course-Management-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ivan-mora-engineer&repo=Course-Management-System&theme=radical" />
+<a href="https://github.com/IVANMORAG/mri-tumor-segmentation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IVANMORAG&repo=mri-tumor-segmentation&theme=radical" />
 </a>
 
-<a href="https://github.com/ivan-mora-engineer/backend-service-with-spring-boot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ivan-mora-engineer&repo=backend-service-with-spring-boot&theme=radical" />
+<a href="https://github.com/IVANMORAG/facial-point-detection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IVANMORAG&repo=facial-point-detection&theme=radical" />
 </a>
 
-<a href="https://github.com/ivan-mora-engineer/Route-Optimize-Algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ivan-mora-engineer&repo=Route-Optimize-Algorithms&theme=radical" />
+<a href="https://github.com/IVANMORAG/api-android-malware">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IVANMORAG&repo=api-android-malware&theme=radical" />
 </a>
 
 ---
