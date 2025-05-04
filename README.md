@@ -1,5 +1,5 @@
 <a target="_blank" align="center">
-  <img align="center" top="800" height="360" width="1000" alt="GIF" src="https://i.gifer.com/XPam.gif">
+  <img align="center" top="800" height="300" width="1000" alt="GIF" src="https://i.gifer.com/xK.gif">
 </a>
 
 <p align="center">
