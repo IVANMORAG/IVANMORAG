@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/IVANMORAG">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=28&center=true&vCenter=true&width=800&height=80&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Iván+Mora;I+am+a+Systems+Engineering+student;Machine+Learning+Enthusiast;API+Developer;Python+Lover+%3C3&duration=3000">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=28&center=true&vCenter=true&width=800&height=80&lines=Hi+%2C+welcome+to+my+Github+page;&duration=3000">
   </a>
 </p>
 
