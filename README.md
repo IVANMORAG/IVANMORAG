@@ -1,14 +1,17 @@
-<div align="center" style="background: linear-gradient(135deg, #1a1a1a, #0d1117); padding: 30px; border: 5px double #0ff; box-shadow: 0 0 30px #f0f, 0 0 60px #0ff, 0 0 90px #ff0; border-radius: 20px; max-width: 600px; position: relative;">
-  <!-- Líneas decorativas simulando cuadrícula -->
-  <div style="position: absolute; top: 10px; left: 10px; right: 10px; bottom: 10px; border: 2px solid #0ff; box-shadow: 0 0 10px #0ff; opacity: 0.3;"></div>
-  <div style="position: absolute; top: 20px; left: 20px; right: 20px; bottom: 20px; border: 2px solid #f0f; box-shadow: 0 0 10px #f0f; opacity: 0.3;"></div>
-  <!-- Textos neon -->
-  <h1 style="color: #0ff; font-size: 2.5em; text-shadow: 0 0 10px #0ff, 0 0 20px #0ff, 0 0 30px #f0f; margin: 10px;">👾 IVÁN MORA</h1>
-  <h3 style="color: #f0f; font-size: 1.5em; text-shadow: 0 0 10px #f0f, 0 0 20px #f0f; margin: 10px;">💾 DESARROLLADOR FULL STACK</h3>
-  <p style="color: #0ff; font-size: 1.2em; text-shadow: 0 0 5px #0ff, 0 0 10px #0ff; margin: 10px;">🌌 SISTEMAS COMPUTACIONALES</p>
+<div align="center" style="background: linear-gradient(135deg, #0d1117, #1a1a1a); padding: 30px; border: 5px double #0ff; box-shadow: 0 0 20px #f0f, 0 0 40px #0ff, 0 0 60px #ff0; border-radius: 15px; max-width: 600px; position: relative; transform: skew(-5deg);">
+  <!-- Líneas decorativas glitch -->
+  <div style="position: absolute; top: 5px; left: 5px; right: 5px; bottom: 5px; border: 2px solid #0ff; box-shadow: 0 0 15px #0ff, 0 0 30px #f0f; opacity: 0.4; transform: skew(5deg);"></div>
+  <div style="position: absolute; top: 15px; left: 15px; right: 15px; bottom: 15px; border: 2px dashed #f0f; box-shadow: 0 0 10px #f0f; opacity: 0.3;"></div>
+  <!-- Efecto glitch en texto -->
+  <h1 style="color: #0ff; font-size: 2.8em; text-shadow: 2px 2px 5px #f0f, -2px -2px 5px #ff0, 0 0 15px #0ff, 0 0 25px #0ff; margin: 10px; position: relative; z-index: 1;">👾 IVÁN MORA</h1>
+  <h3 style="color: #f0f; font-size: 1.6em; text-shadow: 1px 1px 5px #0ff, -1px -1px 5px #ff0, 0 0 10px #f0f; margin: 10px;">💾 DESARROLLADOR FULL STACK</h3>
+  <p style="color: #ff0; font-size: 1.3em; text-shadow: 0 0 5px #0ff, 0 0 10px #f0f; margin: 10px;">🌌 SISTEMAS COMPUTACIONALES</p>
   <!-- Detalles cyberpunk -->
-  <p style="color: #0ff; font-size: 0.8em; opacity: 0.5; position: absolute; top: 10px; left: 10px;">0101 1010</p>
-  <p style="color: #0ff; font-size: 0.8em; opacity: 0.5; position: absolute; bottom: 10px; right: 10px;">1100 0101</p>
+  <p style="color: #0ff; font-size: 0.7em; opacity: 0.5; position: absolute; top: 5px; left: 10px;">0101 ERROR 1010</p>
+  <p style="color: #f0f; font-size: 0.7em; opacity: 0.5; position: absolute; bottom: 5px; right: 10px;">GLITCH 1100 0101</p>
+  <!-- Emojis dinámicos -->
+  <p style="color: #ff0; font-size: 1em; text-shadow: 0 0 10px #ff0; position: absolute; top: 10px; right: 10px;">💥</p>
+  <p style="color: #ff0; font-size: 1em; text-shadow: 0 0 10px #ff0; position: absolute; bottom: 10px; left: 10px;">🌌</p>
 </div>
 
 <div align="center" style="margin: 20px;">
