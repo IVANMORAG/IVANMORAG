@@ -6,26 +6,33 @@
   <a href="https://github.com/IVANMORAG"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7¢er=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Iván+Mora;I+am+a+Systems+Engineering+student;Machine+Learning+Enthusiast;API+Developer;Python+Lover+%3C3"></a>
 </p>
 
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
-    <img alt="Jaskirat's LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/jaskirat.mokha/">
-    <img alt="Jaskirat's Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/jas_script">
-    <img alt="Jaskirat's Twitter" width="40px" src="https://img.icons8.com/?size=100&id=A4DsujzAX4rw&format=png&color=000000" />
-  </a>
-	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@tu_usuario">
-    <img alt="Jaskirat's TikTok" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />
-  </a>
-	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" 
+    width="50px" 
+    alt="LinkedIn"
+    style="margin: 0 15px;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" 
+    width="50px" 
+    alt="Instagram"
+    style="margin: 0 15px;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://img.icons8.com/?size=100&id=A4DsujzAX4rw&format=png&color=000000" 
+    width="50px" 
+    alt="X (Twitter)"
+    style="margin: 0 15px;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" 
+    width="50px" 
+    alt="TikTok"
+    style="margin: 0 15px;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
+</br>
 
 ---
 
