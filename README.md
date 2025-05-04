@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <a href="www.linkedin.com/in/ivan-morag" style="text-decoration:none"><!--
+  <a href="https://www.linkedin.com/in/ivan-morag/" style="text-decoration:none"><!--
   --><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="50px" alt="LinkedIn" style="margin:0 15px;"><!--
   --></a>       
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--
