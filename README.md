@@ -64,8 +64,8 @@
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
-[![YouTube Music](https://youtube-music-widget.vercel.app/api/youtube)](https://music.youtube.com/playlist?list=PLlHhWhyPeWs7qJtNiUH3f8Z3oSO8CgiH-&si=u_GkAAHbNgMx9jkb)
 
+[![YouTube Music](https://youtube-music-widget-jbgn23lar-ivans-projects-792217f9.vercel.app/api/youtube)](https://music.youtube.com/playlist?list=PLlHhWhyPeWs7qJtNiUH3f8Z3oSO8CgiH-)
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
 ---
