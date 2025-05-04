@@ -25,7 +25,7 @@
 ---
 
 <a target="_blank" align="center">
-  <img align="right" top="800" height="410" width="450" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="800" height="360" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
  ```python
