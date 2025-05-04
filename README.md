@@ -1,4 +1,8 @@
-# Hola, soy Iván - aka [IVANMORAG][github] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+<div align="center">
+  <img src="https://github.com/IVANMORAG/IVANMORAG/raw/main/assets/banner-neon.gif" width="600" style="border: 4px double #0ff; box-shadow: 0 0 30px #f0f, 0 0 60px #0ff;" />
+</div>
+
+# Hola, soy Iván - aka [IVANMORAG][github] 🌌
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -11,15 +15,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/ivanmoragarcia412)
-
----
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=IVANMORAG&repo=IVANMORAG&countColor=%23f0f"/>
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/26FPJGjAwS44H0VGM/giphy.gif" />
 
 ### Contáctame 📝
 
@@ -54,14 +50,10 @@
 
   <h2 align="center"> Estadísticas de GitHub 📈 </h2>
   
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IVANMORAG&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IVANMORAG&theme=react&line_height=40&hide=css"/>
-    </a>
-</div>
+  <div align="center" style="background: linear-gradient(135deg, #0d1117, #1a1a1a); padding: 20px; border: 4px double #0ff; box-shadow: 0 0 20px #f0f, 0 0 40px #0ff; border-radius: 10px;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IVANMORAG&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" style="filter: drop-shadow(0 0 10px #f0f);" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IVANMORAG&theme=react&line_height=40&hide=css" style="filter: drop-shadow(0 0 10px #f0f);" />
+  </div>
 
 <br/>
 
