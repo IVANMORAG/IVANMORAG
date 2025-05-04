@@ -1,42 +1,14 @@
-<div align="center" style="margin: 20px;">
-  <svg width="600" height="300" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg" style="background: #0d1117; border: 4px double #0ff; box-shadow: 0 0 30px #f0f, 0 0 60px #0ff;">
-    <!-- Fondo y cuadrícula cyberpunk -->
-    <rect width="100%" height="100%" fill="#0d1117" />
-    <!-- Cuadrícula horizontal -->
-    <g>
-      <line x1="0" y1="37.5" x2="600" y2="37.5" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
-      <line x1="0" y1="75" x2="600" y2="75" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
-      <line x1="0" y1="112.5" x2="600" y2="112.5" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
-      <line x1="0" y1="150" x2="600" y2="150" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
-      <line x1="0" y1="187.5" x2="600" y2="187.5" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
-      <line x1="0" y1="225" x2="600" y2="225" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
-      <line x1="0" y1="262.5" x2="600" y2="262.5" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
-    </g>
-    <!-- Cuadrícula vertical -->
-    <g>
-      <line x1="75" y1="0" x2="75" y2="300" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
-      <line x1="150" y1="0" x2="150" y2="300" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
-      <line x1="225" y1="0" x2="225" y2="300" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
-      <line x1="300" y1="0" x2="300" y2="300" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
-      <line x1="375" y1="0" x2="375" y2="300" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
-      <line x1="450" y1="0" x2="450" y2="300" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
-      <line x1="525" y1="0" x2="525" y2="300" stroke="rgba(0, 255, 255, 0.2)" stroke-width="0.5" />
-    </g>
-    
-    <!-- Líneas decorativas neón -->
-    <path d="M 37.5,37.5 L 562.5,37.5 L 562.5,262.5 L 37.5,262.5 Z" fill="none" stroke="#00ffff" stroke-width="2" style="filter: drop-shadow(0 0 5px #00ffff);" />
-    <path d="M 75,75 L 525,75 L 525,225 L 75,225 Z" fill="none" stroke="#00ffff" stroke-width="2" style="filter: drop-shadow(0 0 5px #00ffff);" />
-    
-    <!-- Textos con efectos neón -->
-    <text x="300" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="45" fill="#fff" style="text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff;">IVÁN MORA</text>
-    <text x="300" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="22" fill="#fff" style="text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;">DESARROLLADOR FULL STACK</text>
-    <text x="300" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="18" fill="#fff" style="text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff;">SISTEMAS COMPUTACIONALES</text>
-    
-    <!-- Elementos decorativos -->
-    <circle cx="112.5" cy="247.5" r="7.5" fill="none" stroke="#ff00ff" style="filter: drop-shadow(0 0 5px #ff00ff);" />
-    <circle cx="487.5" cy="247.5" r="7.5" fill="none" stroke="#00ffff" style="filter: drop-shadow(0 0 5px #00ffff);" />
-    <rect x="75" y="232.5" width="450" height="2" fill="#ff00ff" style="filter: drop-shadow(0 0 5px #ff00ff);" />
-  </svg>
+<div align="center" style="background: linear-gradient(135deg, #1a1a1a, #0d1117); padding: 30px; border: 5px double #0ff; box-shadow: 0 0 30px #f0f, 0 0 60px #0ff, 0 0 90px #ff0; border-radius: 20px; max-width: 600px; position: relative;">
+  <!-- Líneas decorativas simulando cuadrícula -->
+  <div style="position: absolute; top: 10px; left: 10px; right: 10px; bottom: 10px; border: 2px solid #0ff; box-shadow: 0 0 10px #0ff; opacity: 0.3;"></div>
+  <div style="position: absolute; top: 20px; left: 20px; right: 20px; bottom: 20px; border: 2px solid #f0f; box-shadow: 0 0 10px #f0f; opacity: 0.3;"></div>
+  <!-- Textos neon -->
+  <h1 style="color: #0ff; font-size: 2.5em; text-shadow: 0 0 10px #0ff, 0 0 20px #0ff, 0 0 30px #f0f; margin: 10px;">👾 IVÁN MORA</h1>
+  <h3 style="color: #f0f; font-size: 1.5em; text-shadow: 0 0 10px #f0f, 0 0 20px #f0f; margin: 10px;">💾 DESARROLLADOR FULL STACK</h3>
+  <p style="color: #0ff; font-size: 1.2em; text-shadow: 0 0 5px #0ff, 0 0 10px #0ff; margin: 10px;">🌌 SISTEMAS COMPUTACIONALES</p>
+  <!-- Detalles cyberpunk -->
+  <p style="color: #0ff; font-size: 0.8em; opacity: 0.5; position: absolute; top: 10px; left: 10px;">0101 1010</p>
+  <p style="color: #0ff; font-size: 0.8em; opacity: 0.5; position: absolute; bottom: 10px; right: 10px;">1100 0101</p>
 </div>
 
 <div align="center" style="margin: 20px;">
