@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/26FPJGjAwS44H0VGM/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHAyNGh2OXB3eG4wZmRuYmtqeWNzbDExZjNqaHJrNDd1Ym1nOXJveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/blSTtZehjAZ8I/giphy.gif" />
 
 ### YouTube Music Playing 🎶
 
