@@ -64,25 +64,19 @@
 
 
 ### My Projects :
-<div align="center" width="100">
+<div align="center" width="100" style="display: flex; flex-direction: column; gap: 20px;">
   
-<div style="margin: 20px;">
-  <a href="https://github.com/IVANMORAG/mri-tumor-segmentation">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IVANMORAG&repo=mri-tumor-segmentation&theme=tokyonight" />
-  </a>
-</div>
+<a href="https://github.com/IVANMORAG/mri-tumor-segmentation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IVANMORAG&repo=mri-tumor-segmentation&theme=tokyonight" />
+</a>
 
-<div style="margin: 20px;">
-  <a href="https://github.com/IVANMORAG/facial-point-detection">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IVANMORAG&repo=facial-point-detection&theme=tokyonight" />
-  </a>
-</div>
+<a href="https://github.com/IVANMORAG/facial-point-detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IVANMORAG&repo=facial-point-detection&theme=tokyonight" />
+</a>
 
-<div style="margin: 20px;">
-  <a href="https://github.com/IVANMORAG/api-android-malware">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IVANMORAG&repo=api-android-malware&theme=tokyonight" />
-  </a>
-</div>
+<a href="https://github.com/IVANMORAG/api-android-malware">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IVANMORAG&repo=api-android-malware&theme=tokyonight" />
+</a>
 
 </div>
 
