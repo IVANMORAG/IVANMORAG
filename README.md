@@ -29,11 +29,11 @@
   --></a>
 </div>
 
----
+<br/>
+<br/>
 
-<a target="_blank" align="center">
-  <img align="right" top="800" height="360" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+[<img align="right" src="https://youtube-music-widget.vercel.app/_Now_Playing-FF0000?style=flat-square&logo=youtube-music&logoColor=white" height="300">](https://music.youtube.com/playlist?list=PLlHhWhyPeWs7qJtNiUH3f8Z3oSO8CgiH-)
+
 
  ```python
   Class WhoAmI:
@@ -59,17 +59,9 @@
  ```
 <br/>
 
----
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### Youtube Music Playing 🎧
-
-[![YouTube Music](https://youtube-music-widget.vercel.app/)](https://music.youtube.com/playlist?list=PLlHhWhyPeWs7qJtNiUH3f8Z3oSO8CgiH-)
-
-
-
----
 
 
 ### My Projects :
@@ -89,11 +81,13 @@
 
 </div>
 
---- 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 <!-- STACK -->
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 <div align="center" width="100">
-  <h1>Stack</h1>
   
   <!-- Languages -->
   </br>
