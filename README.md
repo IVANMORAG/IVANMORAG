@@ -65,7 +65,7 @@
 
 ### Spotify Playing 🎧
 
-[![YouTube Music](https://youtube-music-widget-git-main-ivans-projects-792217f9.vercel.app/)](https://music.youtube.com/playlist?list=PLlHhWhyPeWs7qJtNiUH3f8Z3oSO8CgiH-)
+[![YouTube Music](https://youtube-music-widget.vercel.app/)](https://music.youtube.com/playlist?list=PLlHhWhyPeWs7qJtNiUH3f8Z3oSO8CgiH-)
 
 
 
