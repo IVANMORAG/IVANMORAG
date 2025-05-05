@@ -1,7 +1,7 @@
 
 
 <a target="_blank" align="center">
-  <img align="center" top="800" height="450" width="1000" alt="GIF" src="https://i.gifer.com/33HI.gif">
+  <img align="center" height="400" width="1000" alt="GIF" src="https://i.gifer.com/33HI.gif">
 </a>
 
 <p align="center">
