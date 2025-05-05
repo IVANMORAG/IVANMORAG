@@ -32,13 +32,15 @@
 <br/>
 <br/>
 
+
+
+  <img align="right" top="800" height="100" width="200" alt="GIF" src="https://i.gifer.com/LCPT.gif">
+
+
 [<img align="center" src="https://youtube-music-widget.vercel.app/_Now_Playing-FF0000?style=flat-square&logo=youtube-music&logoColor=white" height="300">](https://music.youtube.com/playlist?list=PLlHhWhyPeWs7qJtNiUH3f8Z3oSO8CgiH-)
 
 
 <br/>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 
@@ -59,7 +61,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 <!-- STACK -->
