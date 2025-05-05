@@ -30,22 +30,15 @@
 </div>
 
 <br/>
-<br/>
 
 
-
-  <img align="right" top="800" height="100" width="200" alt="GIF" src="https://i.gifer.com/LCPT.gif">
-
-
-[<img align="center" src="https://youtube-music-widget.vercel.app/_Now_Playing-FF0000?style=flat-square&logo=youtube-music&logoColor=white" height="300">](https://music.youtube.com/playlist?list=PLlHhWhyPeWs7qJtNiUH3f8Z3oSO8CgiH-)
+[<img align="left" width="1000" src="https://youtube-music-widget.vercel.app/_Now_Playing-FF0000?style=flat-square&logo=youtube-music&logoColor=white" height="300">](https://music.youtube.com/playlist?list=PLlHhWhyPeWs7qJtNiUH3f8Z3oSO8CgiH-)
 
 
 <br/>
 
-
-
-### My Projects :
-<div align="center" width="100" style="display: flex; flex-direction: column; gap: 20px;">
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Projects</b>
+<div align="center" width="100" style="display: flex; flex-direction: column; gap: 600x;">
   
 <a href="https://github.com/IVANMORAG/mri-tumor-segmentation">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=IVANMORAG&repo=mri-tumor-segmentation&theme=tokyonight" />
@@ -65,8 +58,11 @@
 
 <!-- STACK -->
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
 <br>
 <div align="center" width="100">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- Languages -->
   </br>
