@@ -29,8 +29,6 @@
   --></a>
 </div>
 
-<br/>
-
 
 [<img align="left" width="1000" src="https://youtube-music-widget.vercel.app/_Now_Playing-FF0000?style=flat-square&logo=youtube-music&logoColor=white" height="300">](https://music.youtube.com/playlist?list=PLlHhWhyPeWs7qJtNiUH3f8Z3oSO8CgiH-)
 
