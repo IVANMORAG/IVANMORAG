@@ -32,31 +32,9 @@
 <br/>
 <br/>
 
-[<img align="right" src="https://youtube-music-widget.vercel.app/_Now_Playing-FF0000?style=flat-square&logo=youtube-music&logoColor=white" height="300">](https://music.youtube.com/playlist?list=PLlHhWhyPeWs7qJtNiUH3f8Z3oSO8CgiH-)
+[<img align="center" src="https://youtube-music-widget.vercel.app/_Now_Playing-FF0000?style=flat-square&logo=youtube-music&logoColor=white" height="300">](https://music.youtube.com/playlist?list=PLlHhWhyPeWs7qJtNiUH3f8Z3oSO8CgiH-)
 
 
- ```python
-  Class WhoAmI:
-    user = 'Iván Mora'
-    current_edu = "Systems Engineering, 8th Semester"
-    currently_learning = "Machine Learning & API Development"
-    fun_fact = "I dream in neural networks!"
-    hobbies = [
-                'Training ML models',
-                'Building APIs',
-                'Gaming',
-                'Sci-Fi Movies'
-            ]
-    
-    def getCity():
-        return Mexico()
-    
-    def Ambitions():
-        BecomeMachineLearningEngineer()
-        BuildAIPoweredApps()
-        ContributeToOpenSource()
-	
- ```
 <br/>
 
 
