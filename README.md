@@ -253,6 +253,6 @@
 </br>
 </br>
 
-<a target="_blank" align="center">
-  <img align="center" height="400" width="1000" alt="GIF" src="https://i.gifer.com/J4o.gif">
-</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
