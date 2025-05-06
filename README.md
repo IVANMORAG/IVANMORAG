@@ -10,25 +10,6 @@
   </a>
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ivan-morag/" style="text-decoration:none"><!--
-  --><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/LinkedIN_white.svg" width="30px" alt="LinkedIn" style="margin:0 15px;"><!--
-  --></a>       
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--
-  --><a href="https://www.instagram.com/ivn_mg/" style="text-decoration:none"><!--
-  --><img src="https://cdn.simpleicons.org/instagram/white" width="30px" alt="Instagram" style="margin:0 15px;"><!--
-  --></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- 
-  --><a href="https://x.com/Ivn_moraG" style="text-decoration:none"><!--
-  --><img src="https://cdn.simpleicons.org/x/white" width="30px" alt="X (Twitter)" style="margin:0 15px;"><!--
-  --></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--
-  --><a href="https://www.tiktok.com/@ivan_morag" style="text-decoration:none"><!--
-  --><img src="https://cdn.simpleicons.org/tiktok/white" width="30px" alt="TikTok" style="margin:0 15px;"><!--
-  --></a>
-</div>
-
-
 
 [<img align="left" width="1000" src="https://youtube-music-widget.vercel.app/_Now_Playing-FF0000?style=flat-square&logo=youtube-music&logoColor=white" height="300">](https://music.youtube.com/playlist?list=PLlHhWhyPeWs7qJtNiUH3f8Z3oSO8CgiH-)
 
@@ -253,6 +234,20 @@
 </br>
 </br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ivan-morag/" style="text-decoration:none"><!--
+  --><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/LinkedIN_white.svg" width="30px" alt="LinkedIn" style="margin:0 15px;"><!--
+  --></a>       
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--
+  --><a href="https://www.instagram.com/ivn_mg/" style="text-decoration:none"><!--
+  --><img src="https://cdn.simpleicons.org/instagram/white" width="30px" alt="Instagram" style="margin:0 15px;"><!--
+  --></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- 
+  --><a href="https://x.com/Ivn_moraG" style="text-decoration:none"><!--
+  --><img src="https://cdn.simpleicons.org/x/white" width="30px" alt="X (Twitter)" style="margin:0 15px;"><!--
+  --></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--
+  --><a href="https://www.tiktok.com/@ivan_morag" style="text-decoration:none"><!--
+  --><img src="https://cdn.simpleicons.org/tiktok/white" width="30px" alt="TikTok" style="margin:0 15px;"><!--
+  --></a>
+</div>
