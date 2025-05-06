@@ -59,10 +59,8 @@
  
 <br>
 <div align="center" width="100">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
 <!-- Languages -->
-</br>
+
 <h3>Languages</h3>
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
