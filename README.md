@@ -1,4 +1,3 @@
- 
 
 <a target="_blank" align="center">
   <img align="center" height="400" width="1000" alt="GIF" src="https://i.gifer.com/33HI.gif">
