@@ -69,47 +69,47 @@
 <h3>Languages</h3>
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="Python">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-  width="30px"
+  width="50px"
   alt="C">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-  width="30px"
+  width="50px"
   alt="C++">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-  width="30px"
+  width="50px"
   alt="PHP">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="Java">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-  width="30px"
+  width="50px"
   alt="Typescript">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-  width="30px"
+  width="50px"
   alt="Javascript">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="HTML5">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="css3">
   &nbsp;&nbsp;
 
@@ -118,37 +118,37 @@
 <h3>Frameworks</h3>
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="Flask">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="Django">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="Spring">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="NodeJS">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="React">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="Bootstrap">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="Tailwind">
   &nbsp;&nbsp;
 
@@ -157,22 +157,22 @@
 <h3>Data Science & AI</h3>
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="NumPy">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="Pandas">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="TensorFlow">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="Keras">
   &nbsp;&nbsp;
 
@@ -181,17 +181,17 @@
 <h3>Databases</h3>
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="MongoDB">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="MySQL">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="Firebase">
   &nbsp;&nbsp;
 
@@ -200,17 +200,17 @@
 <h3>Operating Systems</h3>
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-  width="30px"
+  width="50px"
   alt="Linux">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="Ubuntu">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
-  width="30px"
+  width="50px"
   alt="Bash">
   &nbsp;&nbsp;
 
@@ -219,32 +219,32 @@
 <h3>Tools</h3>
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="AWS">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="GitHub">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="Docker">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="Kubernetes">
   &nbsp;&nbsp;
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
-  width="30px"
+  width="50px"
   alt="VS Code">
   &nbsp;&nbsp;
 <img
   src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png"
-  width="30px"
+  width="50px"
   alt="IntelliJ">
   &nbsp;&nbsp;
 </div>
