@@ -35,8 +35,8 @@
  
 <br/>
 <div align="center">
-  <a href="https://github.com/IVANMORAG/mri-tumor-segmentation" style="text-decoration:none"><!--
-  --><img src="https://github-readme-stats.vercel.app/api/pin/?username=IVANMORAG&repo=mri-tumor-segmentation&theme=tokyonight" /><!--
+  <a href="https://github.com/IVANMORAG/MRITumorDetectorAI" style="text-decoration:none"><!--
+  --><img src="https://github-readme-stats.vercel.app/api/pin/?username=IVANMORAG&repo=MRITumorDetectorAI&theme=tokyonight" /><!--
   --></a>       
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!--
   --><a href="https://github.com/IVANMORAG/api-android-malware" style="text-decoration:none"><!--
