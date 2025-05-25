@@ -2,7 +2,6 @@
   <img align="center" height="400" width="1000" alt="GIF" src="https://i.gifer.com/33HI.gif">
 </a>
 
-
 <p align="center">
   <a href="https://github.com/IVANMORAG">
     <img src="https://readme-typing-svg.herokuapp.com?color=%23E6F7FF&size=28&center=true&vCenter=true&width=800&height=80&lines=Hi,+Welcome+to+my+Github;&duration=3000&fontWeight=900&background=linear-gradient(90deg,%20%230044FF,%20%23FFFFFF)&shadow=0_0_25px_%230044FF,0_0_50px_%23FFFFFF">
